@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c21ac78-4043-43fc-a342-48a0f554b4e6": {
+      "ProjectGuid": "2c21ac78-4043-43fc-a342-48a0f554b4e6",
+      "DisplayName": "RoutingServer",
+      "ColorIndex": 0
+    },
+    "f91ab2b6-a470-4fdd-a3ec-5ff550af7fc1": {
+      "ProjectGuid": "f91ab2b6-a470-4fdd-a3ec-5ff550af7fc1",
+      "DisplayName": "ProxyCache",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
